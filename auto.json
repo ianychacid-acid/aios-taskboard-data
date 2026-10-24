@@ -1,0 +1,430 @@
+{
+ "generated_at": "2026-10-24T20:27:20+08:00",
+ "sessions": [
+  {
+   "project": "橫波與縱波",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:52:19+08:00",
+   "updated_at": "2026-10-24T18:52:19+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "working",
+   "reason": "prompt",
+   "since": "2026-10-24T17:50:01+08:00",
+   "updated_at": "2026-10-24T18:46:18+08:00",
+   "session_id": "local_86494fea-6b0b-4b53-9d97-d900758270f6"
+  },
+  {
+   "project": "DNA_RNA_LAB",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:43:23+08:00",
+   "updated_at": "2026-10-24T18:43:23+08:00",
+   "session_id": "local_950d1bcd-34b8-4203-90c9-c7b10cac54c9"
+  },
+  {
+   "project": "personal-edu-portal",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:42:24+08:00",
+   "updated_at": "2026-10-24T18:42:24+08:00",
+   "session_id": "local_97951429-f8b0-4e68-a677-8302ed7609f2"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:39:52+08:00",
+   "updated_at": "2026-10-24T18:39:52+08:00",
+   "session_id": "local_4df670f8-6088-4240-b83b-68e7c9472673"
+  },
+  {
+   "project": "TU04_Simulator",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:37:02+08:00",
+   "updated_at": "2026-10-24T18:37:02+08:00",
+   "session_id": "local_5e3b7e7d-27a9-4459-b53a-84e1882ec9c1"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:30:27+08:00",
+   "updated_at": "2026-10-24T18:30:27+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:14:13+08:00",
+   "updated_at": "2026-10-24T18:14:13+08:00",
+   "session_id": "local_0fe37844-b8c4-456b-8064-846a750c3158"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:14:09+08:00",
+   "updated_at": "2026-10-24T18:14:09+08:00",
+   "session_id": "local_5bb05c16-8efc-4811-90cb-94148f129761"
+  },
+  {
+   "project": "波動教案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:14:05+08:00",
+   "updated_at": "2026-10-24T18:14:05+08:00",
+   "session_id": "local_a9b445b6-ecf0-4448-bec5-558ac49c9e7c"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T18:12:12+08:00",
+   "updated_at": "2026-10-24T18:12:12+08:00",
+   "session_id": "local_f7817dae-7fa2-4e79-99d7-63985a552a1d"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:52:21+08:00",
+   "updated_at": "2026-10-24T17:52:21+08:00"
+  },
+  {
+   "project": "光速測定史互動模擬",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:42:58+08:00",
+   "updated_at": "2026-10-24T17:42:58+08:00",
+   "session_id": "local_b2925e58-7c77-4acd-bc4a-19a43dd58779"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:37:43+08:00",
+   "updated_at": "2026-10-24T17:37:43+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:36:30+08:00",
+   "updated_at": "2026-10-24T17:36:30+08:00"
+  },
+  {
+   "project": "波動教案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:30:29+08:00",
+   "updated_at": "2026-10-24T17:30:29+08:00",
+   "session_id": "local_ac910a23-66a3-44f1-9d2c-076ace946454"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:29:41+08:00",
+   "updated_at": "2026-10-24T17:29:41+08:00",
+   "session_id": "local_6e008aac-0787-47cf-8b24-a33e4663f96d"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:25:47+08:00",
+   "updated_at": "2026-10-24T17:25:47+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T17:19:47+08:00",
+   "updated_at": "2026-10-24T17:19:47+08:00"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T16:58:19+08:00",
+   "updated_at": "2026-10-24T16:58:19+08:00",
+   "session_id": "local_c8d35f33-4bdd-4033-99f0-6a6c65cf01a0"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T16:49:08+08:00",
+   "updated_at": "2026-10-24T16:49:08+08:00",
+   "session_id": "local_0c1214b4-2940-4765-b846-57e62495286c"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T16:40:43+08:00",
+   "updated_at": "2026-10-24T16:40:43+08:00",
+   "session_id": "local_af1965d7-d416-4671-8150-1da3b73d6fa1"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T16:29:01+08:00",
+   "updated_at": "2026-10-24T16:29:01+08:00",
+   "session_id": "local_f933213d-fc21-4d65-8802-ee1fa7a8e054"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T13:57:35+08:00",
+   "updated_at": "2026-10-24T13:57:35+08:00",
+   "session_id": "local_78b43060-0aa6-4928-b23b-9df23b666c86"
+  },
+  {
+   "project": "PDF-Transcriber_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T13:57:10+08:00",
+   "updated_at": "2026-10-24T13:57:10+08:00",
+   "session_id": "local_18a20d49-a313-4263-8390-c03441bdcade"
+  },
+  {
+   "project": "Omni-Reader_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T13:53:25+08:00",
+   "updated_at": "2026-10-24T13:53:25+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T13:53:06+08:00",
+   "updated_at": "2026-10-24T13:53:06+08:00",
+   "session_id": "local_b88e0dc6-aa67-44f9-b9d1-a9e66292a983"
+  },
+  {
+   "project": "Omni-Reader_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T13:52:59+08:00",
+   "updated_at": "2026-10-24T13:52:59+08:00",
+   "session_id": "local_bdc52fb8-0507-4d68-bfce-3116544d32b6"
+  },
+  {
+   "project": "天氣通勤網頁重構專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T12:23:45+08:00",
+   "updated_at": "2026-10-24T12:23:45+08:00",
+   "session_id": "local_c9a96f97-841c-4fc8-be9d-6a96ed9fe882"
+  },
+  {
+   "project": "科展統計作圖工具",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T11:57:22+08:00",
+   "updated_at": "2026-10-24T11:57:22+08:00",
+   "session_id": "local_ba6ba8db-79e0-4fb4-8ed6-d8aa4c8c84f0"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T11:32:45+08:00",
+   "updated_at": "2026-10-24T11:32:45+08:00"
+  },
+  {
+   "project": "五界生物演化關係教學",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T11:26:33+08:00",
+   "updated_at": "2026-10-24T11:26:33+08:00",
+   "session_id": "local_07663b80-b24b-4e87-8ca9-165d6931fcbf"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T11:02:49+08:00",
+   "updated_at": "2026-10-24T11:02:49+08:00"
+  },
+  {
+   "project": "Physics Diagram Studio",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-24T11:00:08+08:00",
+   "updated_at": "2026-10-24T11:00:08+08:00",
+   "session_id": "local_6a4c4615-10b1-4ea3-a2aa-d1cef9ecbe53"
+  }
+ ],
+ "launchers": [
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "橫波與縱波",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:51:52+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:37:48+08:00",
+   "session_id": "local_4df670f8-6088-4240-b83b-68e7c9472673"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:36:06+08:00",
+   "session_id": "local_4df670f8-6088-4240-b83b-68e7c9472673"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "timeout",
+   "exit_code": null,
+   "updated_at": "2026-10-24T18:34:38+08:00",
+   "session_id": "local_4df670f8-6088-4240-b83b-68e7c9472673"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "橫波與縱波",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:33:36+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:23:09+08:00",
+   "session_id": "local_4df670f8-6088-4240-b83b-68e7c9472673"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "DNA_RNA_LAB",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:12:43+08:00",
+   "session_id": "local_950d1bcd-34b8-4203-90c9-c7b10cac54c9"
+  },
+  {
+   "launcher": "launch_cursor_task_fb.py",
+   "project": "共用回報許願服務",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T18:11:11+08:00",
+   "session_id": "local_5bb05c16-8efc-4811-90cb-94148f129761"
+  },
+  {
+   "launcher": "launch_cursor_task_fb.py",
+   "project": "共用回報許願服務",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:57:08+08:00",
+   "session_id": "local_5bb05c16-8efc-4811-90cb-94148f129761"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "橫波與縱波",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:51:47+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:48:17+08:00",
+   "session_id": "local_86494fea-6b0b-4b53-9d97-d900758270f6"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-24T17:30:14+08:00",
+   "session_id": "local_86494fea-6b0b-4b53-9d97-d900758270f6"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "橫波與縱波",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-24T17:30:14+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "DNA_RNA_LAB",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-24T17:30:14+08:00",
+   "session_id": "local_950d1bcd-34b8-4203-90c9-c7b10cac54c9"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "光速測定史互動模擬",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:22:31+08:00",
+   "session_id": "local_b2925e58-7c77-4acd-bc4a-19a43dd58779"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:17:17+08:00",
+   "session_id": "local_0fe37844-b8c4-456b-8064-846a750c3158"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "TU04_Simulator",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:14:45+08:00",
+   "session_id": "local_5e3b7e7d-27a9-4459-b53a-84e1882ec9c1"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "橫波與縱波",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:06:32+08:00",
+   "session_id": "local_5ed9b5e4-b10f-444f-918b-35753e5857bf"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:05:56+08:00",
+   "session_id": "local_0fe37844-b8c4-456b-8064-846a750c3158"
+  },
+  {
+   "launcher": "launch_cursor_task.py",
+   "project": "DNA_RNA_LAB",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-24T17:03:07+08:00",
+   "session_id": "local_950d1bcd-34b8-4203-90c9-c7b10cac54c9"
+  }
+ ]
+}
