@@ -1,0 +1,1672 @@
+{
+ "advanced-lms": {
+  "folder": "進階課程學習管理平台",
+  "name": "進階課程學習管理平台",
+  "sort": 7,
+  "stage": "上線維護",
+  "summary": "V1.0 MVP 已真機部署、教學閉環走通；V1.1 修補已規劃",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "ai-accounting": {
+  "folder": "無",
+  "name": "AI 記帳",
+  "sort": 2,
+  "stage": "發想",
+  "summary": "AI Things 的延伸；open-dashboard 是候選元件",
+  "updated_at": "2026-10-16T19:05:00+08:00"
+ },
+ "ai-storage": {
+  "folder": "無",
+  "name": "AI 收納",
+  "sort": 3,
+  "stage": "發想",
+  "summary": "AI Things 的延伸；拍照整理箱子、書櫃、藥品",
+  "updated_at": "2026-10-16T19:05:00+08:00"
+ },
+ "aios": {
+  "folder": "Yuan Personal AI Operating System",
+  "name": "AIOS",
+  "next": "增量盤點與「專案盤點」口令",
+  "sort": 4,
+  "stage": "開發中",
+  "summary": "工作流 V1 運作中；總圖、任務總控台、專案總表已建立",
+  "updated_at": "2026-10-18T01:18:15+08:00",
+  "roadmap": [
+   {
+    "title": "工作流 V1：角色分工、驗收與收尾流程",
+    "status": "完成",
+    "code": "WORKFLOW_V1",
+    "note": "運作中；本期特殊規則到 11/16"
+   },
+   {
+    "title": "任務總控台：公開網址、自動狀態、接續對話按鈕",
+    "status": "完成",
+    "code": "BOARD-VERCEL、BOARD-AUTO、RESUME-LINK"
+   },
+   {
+    "title": "專案總表與「專案盤點」口令",
+    "status": "完成"
+   },
+   {
+    "title": "AI 額度總覽：Codex、Claude、agy 上總控台並自動擋超額",
+    "status": "進行中",
+    "code": "CODEX-QUOTA、AGY-QUOTA",
+    "note": "已啟用，剩你可延後的確認"
+   },
+   {
+    "title": "Cursor 額度：讀官方用量頁、總控台顯示、啟動器擋超額",
+    "status": "排隊",
+    "code": "CURSOR-QUOTA"
+   },
+   {
+    "title": "總控台專案卡加「開發路線」",
+    "status": "完成",
+    "code": "BOARD-ROADMAP",
+    "note": "10/18 上線"
+   },
+   {
+    "title": "AI 對話典藏：摘要、去重、Obsidian 卡片",
+    "status": "進行中",
+    "code": "CONV-ARCHIVE",
+    "note": "等你挑下一批對話"
+   },
+   {
+    "title": "總控台第二批：關機燈號、自動清理",
+    "status": "排隊"
+   },
+   {
+    "title": "資料夾封存：18 個副本／快照複製核對後移入封存區（不刪除）",
+    "status": "排隊",
+    "note": "搬移前給你核可清單"
+   },
+   {
+    "title": "其他工作線排先後：記帳、Voice Clipboard、錄影工具 A 等",
+    "status": "待規劃",
+    "note": "等你排序"
+   }
+  ],
+  "roadmap_later": [
+   "跨專案進度總覽串 Notion（候選）",
+   "文件生產（Word／Excel／PPT／PDF）流程",
+   "數位典藏與 Dropbox 遷移（2027-09-27 前）"
+  ],
+  "roadmap_source": "Yuan Personal AI Operating System\\AIOS_總圖.md；AIOS 沒有正式排定先後，依總控台各分支狀態整理",
+  "roadmap_updated_at": "2026-10-18T01:25:00+08:00"
+ },
+ "aithings": {
+  "focus": true,
+  "folder": "AI_Things_GAS_Cursor_Dev_Package_v1.0",
+  "name": "AI Things",
+  "next": "做完 S3b～S8，再決定正本放 Notion 或 GAS",
+  "sort": 2,
+  "stage": "開發中",
+  "summary": "GAS 版停在 8/27；Notion 假資料測試做到 S3a，暫停在 S3b",
+  "updated_at": "2026-10-18T01:04:20+08:00",
+  "roadmap": [
+   {
+    "title": "GAS 版日常收件原型",
+    "status": "完成",
+    "code": "GAS v1.0",
+    "note": "停在 8/27，目前仍是主前端"
+   },
+   {
+    "title": "Notion 假資料測試前半：建資料庫、新增、完成、改分類",
+    "status": "完成",
+    "code": "S0～S3a"
+   },
+   {
+    "title": "Notion 測試後半：手機拖曳、重送不重複、故意失敗再補送、模糊指令、改日期、手機實際使用感",
+    "status": "排隊",
+    "code": "S3b～S8",
+    "note": "暫停中，你有空時從 S3b 接續"
+   },
+   {
+    "title": "決定日常任務的正本放 Notion 還是 GAS",
+    "status": "待規劃",
+    "note": "測完由你決定"
+   }
+  ],
+  "roadmap_later": [
+   "日曆整合、速記簿、週期提醒",
+   "延伸：AI 記帳、AI 收納"
+  ],
+  "roadmap_source": "Yuan Personal AI Operating System\\tasks\\AITHINGS-NOTION-LOOP-TEST-20261015\\TEST_PLAN.md",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "calculus": {
+  "folder": "無",
+  "name": "單變數微分課程",
+  "sort": 1,
+  "stage": "已規劃未開始",
+  "summary": "逐章逐頁設計方法已定；受眾是資優生或數資班校友",
+  "updated_at": "2026-10-18T01:04:21+08:00",
+  "roadmap": [
+   {
+    "title": "全書架構與逐章開發方法（各章通用移交報告）",
+    "status": "完成",
+    "note": "8/3"
+   },
+   {
+    "title": "第 1 章：變化率與瞬時速度問題",
+    "status": "排隊",
+    "code": "Ch1",
+    "note": "下一個：先排節次、知識點、例題"
+   },
+   {
+    "title": "第 2 章：極限的直觀與基本概念",
+    "status": "排隊",
+    "code": "Ch2"
+   },
+   {
+    "title": "第 3 章：極限的存在與不存在",
+    "status": "排隊",
+    "code": "Ch3"
+   },
+   {
+    "title": "第 4 章：連續與不連續",
+    "status": "排隊",
+    "code": "Ch4"
+   },
+   {
+    "title": "第 5 章：導數的定義與切線",
+    "status": "排隊",
+    "code": "Ch5"
+   },
+   {
+    "title": "第 6 章：可微、不可微及其與連續的關係",
+    "status": "排隊",
+    "code": "Ch6"
+   },
+   {
+    "title": "第 7 章：導數符號與微分",
+    "status": "排隊",
+    "code": "Ch7"
+   },
+   {
+    "title": "第 8 章：基本導數公式",
+    "status": "排隊",
+    "code": "Ch8"
+   },
+   {
+    "title": "第 9 章：導數運算法則",
+    "status": "排隊",
+    "code": "Ch9"
+   },
+   {
+    "title": "第 10 章：切線、極值與圖形分析",
+    "status": "排隊",
+    "code": "Ch10"
+   },
+   {
+    "title": "第 11 章：位置、速度與加速度",
+    "status": "排隊",
+    "code": "Ch11"
+   }
+  ],
+  "roadmap_source": "Yuan Personal AI Operating System\\專案總表\\收件匣\\單變數微分課程開發\\ChatGPT-單變數微分簡報設計-20261016-1829.md",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "circuit-sim": {
+  "folder": "資優電學實驗模擬",
+  "name": "資優電學實驗模擬",
+  "sort": 3,
+  "stage": "開發中",
+  "summary": "現版是互動原型：純電阻 1～3 關與 Δ–Y 教學頁可用但流程與紀錄有錯，含源／二極體測量未完成；舊文件「100% 完成」不成立。首版目標：1～4 關可信＋可重現後試教",
+  "updated_at": "2026-10-18T21:46:25+08:00",
+  "next": "R1 候選版完成（未部署）；等 Yuan 使用者驗收，R2 教學修正排隊",
+  "focus": true,
+  "yuan_todo": "可延後：R1 候選版親自驗收與多項可延後決定，見 YUAN_驗收清單.md",
+  "roadmap": [
+   {
+    "title": "答題流程不出錯：可換題、可切關、不重複記錄",
+    "status": "完成",
+    "code": "R1",
+    "note": "候選版，審查與畫面驗收通過，尚未部署"
+   },
+   {
+    "title": "教學內容更正確：題目分級、解析補完、Δ–Y 對照",
+    "status": "排隊",
+    "code": "R2"
+   },
+   {
+    "title": "老師能重現學生那一題：題號、匯出檔、截圖改善",
+    "status": "排隊",
+    "code": "R3"
+   },
+   {
+    "title": "放上試教網址，平板與電腦都能用",
+    "status": "待規劃",
+    "code": "R4"
+   },
+   {
+    "title": "第一次試教",
+    "status": "待規劃"
+   },
+   {
+    "title": "含源黑箱",
+    "status": "待規劃",
+    "code": "S1"
+   },
+   {
+    "title": "二極體黑箱",
+    "status": "待規劃",
+    "code": "S2"
+   }
+  ],
+  "roadmap_later": [
+   "TypeScript／Vite 整理",
+   "CSV 匯出",
+   "未知結構辨識任務"
+  ],
+  "roadmap_source": "資優電學實驗模擬/PLAN/2026-10-18_功能基線與首版規劃.md",
+  "roadmap_updated_at": "2026-10-18T22:00:00+08:00"
+ },
+ "class-recording": {
+  "focus": true,
+  "folder": "無（對話在 專案總表\\收件匣\\課堂錄影補課自學方案）",
+  "name": "課堂錄影補課自學",
+  "next": "Claude 收斂工具 A 規格；先查證共用電腦登入、學校錄影規範、Meet 錄影資格",
+  "sort": 3,
+  "stage": "待規劃",
+  "summary": "工具 A（Meet 錄影）優先，工具 B（整理上傳）後做；已決定不重錄、不出現人臉、限時觀看",
+  "updated_at": "2026-10-16T19:05:00+08:00",
+  "yuan_todo": "決定教室共用電腦的登入方式"
+ },
+ "classroom": {
+  "focus": true,
+  "folder": "智慧班級經營系統_多教師_V1_20261012（正史：智慧班級經營系統_測試_0917）",
+  "name": "智慧教室（多教師版）",
+  "next": "G52 家長在家查成績與錯題＋手機版面（施工中）→ G35 PDF → H5-1 重新整理不用重登 → G41 班級代碼",
+  "sort": 1,
+  "stage": "開發中",
+  "summary": "10/20 Yuan 本班正式啟用、同事陸續啟用；平時成績總表、調分、學生三按鈕已上線；Excel 範本已修好；家長在家查成績施工中",
+  "updated_at": "2026-10-25T13:28:39+08:00",
+  "roadmap": [
+   {
+    "title": "每位老師自己的帳號、導師與協同老師分權、修改紀錄",
+    "status": "完成",
+    "code": "R-012、FIX03",
+    "note": "第一版已上線"
+   },
+   {
+    "title": "第一輪修正：學生查詢、成績分頁、家長聯絡中心等",
+    "status": "完成",
+    "code": "FIX01～FIX04E-1"
+   },
+   {
+    "title": "成績匯入更好用、紅點只算沒看過的、作業可標已結案、更新日誌",
+    "status": "完成",
+    "code": "FIX04E-2",
+    "note": "已上線（新 API @19）"
+   },
+   {
+    "title": "成績空白不再被當成 0 分；座號 3 顯示成 03",
+    "status": "完成",
+    "code": "G31＋G39",
+    "note": "已上線（@20，10/18）"
+   },
+   {
+    "title": "畫面文字校正（35%／40%、高估／低估等用詞）",
+    "status": "完成",
+    "code": "文字校正",
+    "note": "已上線（@21，10/18）"
+   },
+   {
+    "title": "老師可在系統裡回報問題、許願新功能（回報清單全自動）",
+    "status": "完成",
+    "code": "B8＋B8 全自動",
+    "note": "已上線（@22，10/18）"
+   },
+   {
+    "title": "平時成績總表：分類加權、加減分、依座號列印清單",
+    "status": "完成",
+    "code": "H7 第①批",
+    "note": "已上線（@22，10/18）"
+   },
+   {
+    "title": "平時成績調分",
+    "status": "完成",
+    "code": "H7 第②批",
+    "note": "已上線（@23，10/19）；10/20 測試站驗收通過"
+   },
+   {
+    "title": "學生查詢改成「學校段考／班段考／平時成績」三個按鈕",
+    "status": "完成",
+    "code": "H7 第③批＋H6",
+    "note": "已上線（@23，10/19）；10/20 測試站驗收通過；家長在家查詢的手機版面已隨 G52 上線"
+   },
+   {
+    "title": "測試站：全假資料的網站，讓 Claude 自己登入、驗收",
+    "status": "完成",
+    "code": "STAGING-01",
+    "note": "10/20 上線 （網址見私人網址清單）"
+   },
+   {
+    "title": "成績 Excel 範本打開不再跳「修復」視窗（平時評量、學校段考）",
+    "status": "完成",
+    "code": "G43",
+    "note": "10/20 上線（只更新網頁），已用 Excel 實測"
+   },
+   {
+    "title": "家長在家查成績與自然錯題（學校段考、班段考、平時成績、錯題），手機版面",
+    "status": "完成",
+    "code": "G52＋G47",
+    "note": "10/20 21:0x 上線（網頁）＋10/21 後端帶上；家長查詢頁登入後按「查成績／錯題」，只看得到自己孩子；老師端手機版面另列 G47-B"
+   },
+   {
+    "title": "班級代碼可自訂好記、家長手機記住多個班級、班級連結、查詢錯誤次數限制",
+    "status": "完成",
+    "code": "G41",
+    "note": "10/21 14:06 上線（後端＋網頁）：導師自訂好記代碼、家長手機記住班級、查詢錯誤統一訊息；舊代碼與舊連結照常可用"
+   },
+   {
+    "title": "成績存檔後不再卡在「儲存中…」（學校段考、班段考、平時評量）",
+    "status": "完成",
+    "code": "G54＋G49",
+    "note": "10/21 14:06 與 G41 一起上線（後端）"
+   },
+   {
+    "title": "雲端資料夾搬遷（課程進度、自然課程）",
+    "status": "完成",
+    "code": "雲端搬遷",
+    "note": "10/21 已依 Yuan 核可搬移完成（由「智慧教室雲端搬家盤點」對話負責），待 Yuan 開新系統兩分頁驗收（驗收清單第 6 項）"
+   },
+   {
+    "title": "PDF 下載不被瀏覽器擋、剛進成績分頁點子分頁沒反應",
+    "status": "完成",
+    "code": "G35＋G36＋G50",
+    "note": "10/21 18:3x 上線（後端新 API @25＋前端）"
+   },
+   {
+    "title": "快速登入第 1 步：重新整理不用重登",
+    "status": "完成",
+    "code": "H5-1",
+    "note": "10/22 16:15 上線（新 API @26）；剩你驗收清單 8"
+   },
+   {
+    "title": "成績頁小修：匯入說明、版本時間、批次貼上等待、重複建評量提示、家長畫面多餘按鈕",
+    "status": "完成",
+    "code": "G44、G46、G48、G51、G55、G56",
+    "note": "第 2 波，10/23 17:51 上線（新 API @27）；剩你驗收清單 10"
+   },
+   {
+    "title": "家長聯絡中心小修：請假編輯、紅點即時、協同老師看得到班級代碼等",
+    "status": "完成",
+    "code": "G37、G42、G59、G57",
+    "note": "第 2 波，10/23 17:51 上線（新 API @27）；剩你驗收清單 9"
+   },
+   {
+    "title": "上手說明：家長版、教師版（分主題、白話步驟）",
+    "status": "完成",
+    "code": "上手說明",
+    "note": "第 3 波：10/24 定稿 PDF（教師 18 頁、家長 9 頁），你已看過；由你用 LINE 傳出"
+   },
+   {
+    "title": "舊網址搬家告示（首頁＋家長查詢頁）",
+    "status": "完成",
+    "code": "搬家告示",
+    "note": "第 3 波：10/24 11:53 上線（舊系統第 215 版）；舊資料全留，家長端送出請假／晤談改導向新網址"
+   },
+   {
+    "title": "課程檔案小修：PDF 打不開、學期新的排上面、圖片放大預設符合頁寬",
+    "status": "完成",
+    "code": "G68、G69、G70",
+    "note": "10/25 上線（新 API 第 28 版＋前端）；剩你驗收清單 12"
+   },
+   {
+    "code": "G73",
+    "title": "家長查詢網址用好記代碼、網址變短（＋查詢頁不被瀏覽器填入老師帳密）",
+    "status": "進行中",
+    "note": "推廣前必要；由「班級代碼與查詢網址問題」對話負責，以第 28 版為起點"
+   },
+   {
+    "code": "BUG",
+    "title": "可能出現的 BUG（沒有最好）",
+    "status": "排隊",
+    "note": "G73 之後；有實際使用回報的 BUG 優先處理。已知小問題 G63、G66、G72、G75 等暫不開批次"
+   },
+   {
+    "code": "G71",
+    "title": "老師一鍵看家長畫面",
+    "status": "待規劃",
+    "note": "擱置：等你說開工才開工，不自動開工（額度留給 BUG）"
+   },
+   {
+    "title": "LINE 請假：官方帳號請假按鈕 → LINE 內請假頁＋家長綁定 → 說請假自動回覆",
+    "status": "排隊",
+    "code": "E2 LINE-0／1a／1b",
+    "note": "規劃已核可（10/23 全 A）；1a 與第 3 波並行，由「LINE請假串接規劃與核對」對話負責"
+   },
+   {
+    "title": "快速登入第 2、3 步：手機掃 QR Code 登入教室電腦、遠端登出",
+    "status": "排隊",
+    "code": "H5-2／H5-3",
+    "note": "第 4 波：排在 LINE 請假 1a 之後（你 10/23 決定）"
+   },
+   {
+    "title": "鐘點費計算整合",
+    "status": "排隊",
+    "code": "E3",
+    "note": "第 5 波；決策卡已定"
+   },
+   {
+    "title": "自然錯題總題數自動帶入、課程進度資料夾不再重複建立",
+    "status": "完成",
+    "code": "G56、G57",
+    "note": "已併入第 2 波上線（@27）"
+   }
+  ],
+  "roadmap_later": [
+   "課堂經營工具：分組、碼表、倒數、全螢幕時鐘、抽籤（C1）",
+   "座位表重新設計、首頁簡化（C2～C4，動工前先出設計稿）",
+   "失物招領、班級動態入口、寄信通知家長、學生悄悄話（B16、B9、B12、B14）",
+   "彈性排課、隔週課（B10）",
+   "手機版面更好讀（G3／G30）",
+   "零星小項（G33～G40）、舊程式鎖整理、各批審查建議小修"
+  ],
+  "roadmap_paused": [
+   "IGP 紀錄、會議與班親會通知（E1）",
+   "LINE 官方帳號串接（E2）",
+   "分頁命名（D1／D2）"
+  ],
+  "roadmap_source": "智慧班級經營系統_多教師_V1_20261012\\HANDOFF_NEW_SESSION_20261020.md、IMPROVEMENT_BACKLOG.md、功能總盤點_20261020.md",
+  "roadmap_updated_at": "2026-10-25T14:00:00+08:00",
+  "features_source": "智慧班級經營系統_多教師_V1_20261012\\功能總盤點_20261020.md",
+  "features_updated_at": "2026-10-21T18:40:00+08:00",
+  "features": [
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "用座號＋查詢密碼＋班級代碼登入（掃 QR Code 自動帶入班級代碼）"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "看孩子的課堂表現紀錄"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "線上請假＋「我的請假」看處理結果"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "預約導師晤談＋「我的預約」"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "在家查成績：學校段考（含分析、趨勢圖）／班段考／平時成績",
+    "code": "G52",
+    "note": "10/20 上線：家長查詢頁登入後按「📊 查成績／錯題」"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "在家查自然錯題",
+    "code": "G52",
+    "note": "10/20 與 G52 一起上線"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "家長查成績畫面手機排版",
+    "code": "G47",
+    "note": "10/20 併 G52 上線；老師端手機版面另列 G47-B 下一批"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "已上線",
+    "title": "好記的班級代碼（導師自訂）＋手機記住多個班級",
+    "code": "G41",
+    "note": "10/21 上線：家長頁輸入好記代碼、勾「記住這個班級」"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "查詢輸錯時顯示「座號或密碼錯誤」",
+    "code": "G34"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "請假／晤談送出後寄通知信給導師",
+    "note": "試用期刻意停用"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "家長自己改查詢密碼",
+    "note": "已決定不開放（H3）"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "學生悄悄話（私下留言、申請晤談）",
+    "code": "B14"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "LINE 官方帳號串接",
+    "code": "E2",
+    "note": "長期擱置"
+   },
+   {
+    "group": "家長／學生端",
+    "status": "沒做",
+    "title": "家長端「開發規劃」公開頁",
+    "code": "G45",
+    "note": "待 Yuan 決定"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "已上線",
+    "title": "重大事件倒數、目前班級名稱"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "已上線",
+    "title": "倒數計時、碼表"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "已上線",
+    "title": "緊急公告、跑馬燈"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "已上線",
+    "title": "班級動態"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "已上線",
+    "title": "使用統計"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "沒做",
+    "title": "失物招領區",
+    "code": "B16"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "沒做",
+    "title": "班級動態入口更明顯",
+    "code": "B9"
+   },
+   {
+    "group": "老師端｜首頁",
+    "status": "沒做",
+    "title": "首頁簡化（碼表、計時器搬走）",
+    "code": "C3"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "座位排列、放大、解鎖交換、大風吹、偵探"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "在籍管理、匯入／更新名單、改單人組別"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "記錄模式＋名單模式"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "快捷單人記錄、批次記錄與詳細記錄"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "匯入座位表（預覽→確認）"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "查詢記錄、家長查詢密碼條（含 QR、列印、複製）"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "每日截圖寄信",
+    "note": "舊功能沿用，這次未重驗"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "已上線",
+    "title": "視角切換（旋轉／翻轉）",
+    "code": "C2／C4",
+    "note": "⚠️ 平板上可能轉出畫面"
+   },
+   {
+    "group": "老師端｜座位表",
+    "status": "沒做",
+    "title": "座位表視角重新繪製、平板完整顯示",
+    "code": "C2／C4"
+   },
+   {
+    "group": "老師端｜活動分組",
+    "status": "已上線",
+    "title": "依全班／組別隨機分隊、存檔並寄信",
+    "note": "舊功能沿用"
+   },
+   {
+    "group": "老師端｜活動分組",
+    "status": "沒做",
+    "title": "課堂經營工具：分組＋碼表＋倒數＋全螢幕時鐘＋抽籤",
+    "code": "C1"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "已上線",
+    "title": "公告欄、行事曆、待辦備忘"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "已上線",
+    "title": "課表＋前端匯入課表（Excel／貼上／AI 小幫手）"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "已上線",
+    "title": "調代課",
+    "note": "曾列待正式驗收"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "已上線",
+    "title": "寒暑輔：開始日期、週數、每週課表",
+    "code": "G21b",
+    "note": "全日活動編輯無法驗證"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "已上線",
+    "title": "晤談時段前端設定"
+   },
+   {
+    "group": "老師端｜班級公告",
+    "status": "沒做",
+    "title": "彈性排課（第 8、9 節、隔週課、段考週留白）",
+    "code": "B10"
+   },
+   {
+    "group": "老師端｜課程進度",
+    "status": "已上線",
+    "title": "課程目錄、分類管理、學期排序",
+    "note": "⚠️ 舊雲端資料夾檔案還沒搬，新班畫面是空的"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "科目管理、學校段考、班段考、平時成績三大區"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "輸入成績：新增、批次貼上、範本、選檔匯入、AI 提示詞",
+    "code": "G43",
+    "note": "⚠️ Excel 範本打開會跳修復視窗"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "分析報表：段考／平時考分析、T 分數、解讀、圖表、下載 PNG"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "下載 PDF",
+    "code": "G35",
+    "note": "⚠️ 被瀏覽器擋彈出視窗就失敗"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "成績空白不再被當 0 分",
+    "code": "G31",
+    "note": "舊資料裡存成 0 的空白待 Yuan 確認清單"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "平時成績總表：加權、加減分、調分、版本、列印、公開給學生",
+    "code": "G46",
+    "note": "⚠️ 版本時間少 8 小時"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "學生查詢三按鈕（學校段考｜班段考｜平時成績）、存新版提醒"
+   },
+   {
+    "group": "老師端｜原班回報",
+    "status": "沒做",
+    "title": "原班導師為資優生新增原班表現紀錄",
+    "note": "分頁還在，畫面只寫「開發中」"
+   },
+   {
+    "group": "老師端｜自然課程",
+    "status": "已上線",
+    "title": "錯題輸入與分析、學生用座號查錯題"
+   },
+   {
+    "group": "老師端｜自然課程",
+    "status": "已上線",
+    "title": "自然課程資料庫",
+    "note": "⚠️ 同課程進度，舊檔未搬"
+   },
+   {
+    "group": "老師端｜作業管理",
+    "status": "已上線",
+    "title": "建立作業、篩選、學藝股長模式、學期設定"
+   },
+   {
+    "group": "老師端｜作業管理",
+    "status": "已上線",
+    "title": "「已結案」狀態，舊作業不再顯示缺交",
+    "note": "Yuan 要把「本學期」設成八上"
+   },
+   {
+    "group": "老師端｜家長聯絡中心",
+    "status": "已上線",
+    "title": "請假管理（含代為登記）、晤談管理、晤談時段"
+   },
+   {
+    "group": "老師端｜家長聯絡中心",
+    "status": "已上線",
+    "title": "新申請紅點與筆數、批次標已看過",
+    "code": "G42",
+    "note": "⚠️ 要重新登入才更新"
+   },
+   {
+    "group": "老師端｜家長聯絡中心",
+    "status": "已上線",
+    "title": "查詢密碼產生、儲存、列印、複製"
+   },
+   {
+    "group": "老師端｜家長聯絡中心",
+    "status": "已上線",
+    "title": "導師看到並自訂班級代碼",
+    "code": "G41",
+    "note": "10/21 上線：家長聯絡中心→查詢密碼最上方，附步驟說明"
+   },
+   {
+    "group": "老師端｜開發規劃",
+    "status": "已上線",
+    "title": "現況／即將推出／規劃中＋白話更新日誌"
+   },
+   {
+    "group": "老師端｜開發規劃",
+    "status": "已上線",
+    "title": "問題回報與功能許願區",
+    "code": "B8",
+    "note": "通知信關閉"
+   },
+   {
+    "group": "老師端｜開發規劃",
+    "status": "沒做",
+    "title": "回報區獨立分頁、開發規劃公開",
+    "code": "G45"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "已上線",
+    "title": "多教師、多班級；導師與協同／科任權限"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "已上線",
+    "title": "編輯密碼（閒置自動鎖）、修改紀錄"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "已上線",
+    "title": "切換班級、登出、修改密碼"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "已上線",
+    "title": "管理面板：建立教師／班級／協同、匯入學生名單"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "做好未上線",
+    "title": "重新整理網頁不用重登",
+    "code": "H5-1",
+    "note": "程式已定版，上線前要 Yuan 執行一次初始化"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "手機掃 QR 登入教室電腦、手機管理登入裝置",
+    "code": "H5-2／H5-3"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "老師手機版面更好讀",
+    "code": "G3／G30"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "寄信給全班家長",
+    "code": "B12"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "鐘點費整合",
+    "code": "E3",
+    "note": "排在最後"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "IGP 紀錄、會議與班親會",
+    "code": "E1",
+    "note": "長期"
+   },
+   {
+    "group": "帳號與管理",
+    "status": "沒做",
+    "title": "分頁改名",
+    "code": "D1／D2",
+    "note": "等 Yuan 想名稱"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "成績存檔後不再卡在「儲存中…」",
+    "code": "G54",
+    "note": "10/21 上線"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "成績分析下載 PDF 不再被瀏覽器擋（同一頁列印）",
+    "code": "G35",
+    "note": "10/21 上線"
+   },
+   {
+    "group": "老師端｜成績",
+    "status": "已上線",
+    "title": "剛進成績分頁就按按鈕會顯示「載入中」並自動執行",
+    "code": "G36／G50",
+    "note": "10/21 上線"
+   }
+  ]
+ },
+ "dictionary": {
+  "folder": "全功能英文字典",
+  "name": "全功能英文字典",
+  "sort": 4,
+  "stage": "已規劃未開始",
+  "summary": "七上 Book 1 共 226 條字彙第一版已產出並通過結構檢驗，等教師人工審核",
+  "updated_at": "2026-10-18T01:04:20+08:00",
+  "roadmap": [
+   {
+    "title": "規格與資料骨架：雙冊、等級、受控詞彙、品質檢查規則",
+    "status": "完成"
+   },
+   {
+    "title": "七上 Book 1：教材來源整理＋第一版 226 條，結構檢驗通過",
+    "status": "完成",
+    "code": "KH7A",
+    "note": "10/05"
+   },
+   {
+    "title": "老師人工審核第一版（範本批）",
+    "status": "排隊",
+    "code": "U0 Golden Batch",
+    "note": "等你審核；通過前不大量生產"
+   },
+   {
+    "title": "記憶法流程改版：多個 AI 分頭構思再合併篩選",
+    "status": "待規劃"
+   }
+  ],
+  "roadmap_later": [
+   "七下、八上等其他冊",
+   "網站、PDF 排版、Word／Excel 輸出"
+  ],
+  "roadmap_source": "全功能英文字典\\全功能英文字典_SoT_啟動包_v0.1\\CURRENT_STATE.md",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "edu-portal": {
+  "folder": "personal-edu-portal",
+  "name": "個人教育入口網站 V2",
+  "sort": 3,
+  "stage": "開發中",
+  "summary": "10/16 接入工作流 V1；範圍改為分波上線（12 區保留、有真材料先上）；正在選第一批公開作品，接著做本機預覽骨架（停點 2）",
+  "updated_at": "2026-10-18T01:04:20+08:00",
+  "roadmap": [
+   {
+    "title": "接入工作流、記下分波上線與專案等級",
+    "status": "完成",
+    "code": "停點 0"
+   },
+   {
+    "title": "決定公開範圍：哪些作品／工具要公開、第一波開哪些區",
+    "status": "進行中",
+    "code": "停點 1",
+    "detail": "範圍文件已改成分波；作品勾選表已交你",
+    "note": "等你勾選（B-008～B-015）"
+   },
+   {
+    "title": "本機預覽骨架：版面、導覽、首頁與第一波頁面",
+    "status": "排隊",
+    "code": "停點 2",
+    "note": "技術勾選表→施工→審查→畫面驗收→給你看"
+   },
+   {
+    "title": "第一波正式上線：站名、關於我、聯絡方式、部署",
+    "status": "排隊",
+    "code": "停點 3",
+    "note": "等你通知時機"
+   },
+   {
+    "title": "後續各區補內容：文章、教學檔案、課程、教學成果",
+    "status": "排隊",
+    "code": "停點 4",
+    "note": "有真實材料才開"
+   }
+  ],
+  "roadmap_paused": [
+   "Physics Office 區（第一波不開放、不破梗）"
+  ],
+  "roadmap_source": "personal-edu-portal\\IMPROVEMENT_BACKLOG.md、PROJECT_STATUS.md",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "fitness": {
+  "folder": "智慧健身資料中心",
+  "name": "智慧健身資料中心",
+  "paused_reason": "5/8 後沒動",
+  "sort": 6,
+  "stage": "擱置",
+  "summary": "Phase 3.3、約 80%：核心分析與儀表板完成；停在排查連線問題與圖表瑕疵（文件記到 1/24）",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "gemini-organizer": {
+  "folder": "Gemini整理神器",
+  "name": "Gemini 整理神器",
+  "sort": 2,
+  "stage": "上線維護",
+  "summary": "V14 旗艦版：公式渲染、保守批次處理、PDF 匯出；單一 HTML，功能完整已發布",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "gifted-pay": {
+  "folder": "資優班鐘點費計算器_GAS",
+  "name": "資優班鐘點費計算器",
+  "paused_reason": "本月不排；等鐘點費決策卡與智慧教室整合",
+  "sort": 1,
+  "stage": "擱置",
+  "summary": "V2 Web App 本機核心計算完成；文件與接口有矛盾，線上部署狀態未確認",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "media-inbox": {
+  "folder": "無（對話在 專案總表\\收件匣\\Media Inbox）",
+  "name": "Media Inbox",
+  "sort": 1,
+  "stage": "發想",
+  "summary": "貼網址就把影片轉成逐字稿；臉書文章收藏",
+  "updated_at": "2026-10-16T19:05:00+08:00"
+ },
+ "micro-world": {
+  "folder": "無",
+  "name": "微觀世界課程",
+  "sort": 2,
+  "stage": "擱置",
+  "summary": "1 月定了 Master Document v0.1 與子對話地圖；9 個月沒動",
+  "updated_at": "2026-10-17T01:14:07+08:00",
+  "paused_reason": "Yuan 10/17：待回顧重新盤點後決定"
+ },
+ "mingchuan100": {
+  "folder": "20260512",
+  "name": "銘傳100 金屬科學工坊",
+  "sort": 1,
+  "stage": "結束",
+  "summary": "校慶攤位活動，活動已過",
+  "updated_at": "2026-10-16T19:05:00+08:00"
+ },
+ "misc-folders": {
+  "folder": "C:\\VibeCoding_Local 第一層",
+  "name": "零碎資料夾（用途待確認）",
+  "next": "維持教材與備份，不列專案",
+  "sort": 1,
+  "stage": "零碎",
+  "summary": "手機成癮（數位使用契約、親師說帖等已完成的教材）、深度對談備份（ChatGPT／Gemini 長對話 PDF）；其餘 6 個已改列為專案",
+  "updated_at": "2026-10-16T20:45:00+08:00"
+ },
+ "omni-reader": {
+  "folder": "Omni-Reader_2026（舊規劃：Omni-Reader，唯讀）",
+  "name": "Omni-Reader",
+  "sort": 4,
+  "stage": "開發中",
+  "summary": "Omni-Reader 5.0：本機優先 AI 文件閱讀研究工具，完整藍圖保留分階段做。MVP-01 已收尾（正式版在 app 資料夾，雙擊即用、接 Gemini 免費 API、整份英文 PDF 自動畫重點＋繁中說明、真實資料定位 37/38）；MVP-02 雙模型對照進行中",
+  "updated_at": "2026-10-20T18:29:50+08:00",
+  "next": "MVP02 雙模型對照已做完、審查全過，擱置等 Yuan 試用（稍晚處理）→ 第 4 次小修（含版權字樣）→ 收尾",
+  "roadmap": [
+   {
+    "title": "接入工作流、重新評估 2025 年舊規劃",
+    "status": "完成",
+    "code": "階段 A"
+   },
+   {
+    "title": "AI 視覺筆記核心：整份英文 PDF 自動畫重點＋繁中說明，審核後匯出",
+    "status": "完成",
+    "code": "MVP-01",
+    "note": "10/18 收尾，正式版在 app 資料夾"
+   },
+   {
+    "title": "雙模型對照：同一句由兩個 AI 各寫說明並排看；撞每分鐘上限自動等待接續",
+    "status": "進行中",
+    "code": "MVP-02",
+    "detail": "含 OR-211、OR-213、模型清單過濾、頁間等待可取消",
+    "note": "勾選表完成，A4 決策中"
+   },
+   {
+    "title": "日常可用：筆記強化、閱讀器、圈選查詢、模型切換、更多匯出格式、摘要",
+    "status": "待規劃",
+    "code": "P1"
+   },
+   {
+    "title": "文件加工：問答、翻譯、掃描檔辨識、PDF 工具箱、浮水印",
+    "status": "待規劃",
+    "code": "P2"
+   },
+   {
+    "title": "進階研究：跨文件比較、圖表公式解說、Podcast、導讀模式",
+    "status": "待規劃",
+    "code": "P3"
+   },
+   {
+    "title": "產品化：可攜版／安裝版、更新與備份、網頁版、授權方式",
+    "status": "待規劃",
+    "code": "P4",
+    "note": "未定案"
+   }
+  ],
+  "roadmap_source": "Omni-Reader_2026\\IMPROVEMENT_BACKLOG.md（路線圖）",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "puzzle": {
+  "folder": "數位拼圖製作專案",
+  "name": "數位拼圖製作",
+  "paused_reason": "本月不排",
+  "sort": 3,
+  "stage": "擱置",
+  "summary": "Vite＋React＋TypeScript；拼圖引擎（格線、邊緣、吸附、群組、提示、完成判定）已完成，尚待高片數效能壓力測試。2026-10-21 v0.5 已部署：原圖改成勾選（淡淡底圖、原圖小窗）、加版權頁與更新日誌",
+  "updated_at": "2026-10-21T15:37:07+08:00"
+ },
+ "rental": {
+  "folder": "房屋租賃管理平台 SDS v2.0",
+  "name": "房屋租賃管理平台",
+  "paused_reason": "9/11 後沒動",
+  "sort": 5,
+  "stage": "擱置",
+  "summary": "2.0.0-stage4：Stage 0～4（權限、主檔、帳單與電表匯入、計費分攤、跑批）完成，待 GAS 驗收後做 Stage 5",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "research-match": {
+  "folder": "獨立研究指導媒合平台",
+  "name": "獨立研究指導媒合平台",
+  "paused_reason": "5/11 後沒動",
+  "sort": 8,
+  "stage": "擱置",
+  "summary": "V3.1：32 個 GAS 程式檔已產出並校驗，待部署到 GAS 並初始化",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "sci-abstract": {
+  "folder": "科展摘要寫作特訓班",
+  "name": "科展摘要寫作特訓班",
+  "sort": 1,
+  "stage": "上線維護",
+  "summary": "V11.8：雙稿循環 AI 評量＋GAS 成績回傳，可正常使用、持續課堂優化；學生需自行輸入 API Key",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "sci-fair-plot": {
+  "folder": "科展統計作圖工具",
+  "name": "科展統計作圖工具",
+  "sort": 2,
+  "stage": "上線維護",
+  "summary": "V2.0.1 上線中；R1 自動暫存與文件復原已開發完成並通過審查（V2.0.2 候選），待預覽部署與 iPad 驗收",
+  "updated_at": "2026-10-24T01:48:00+08:00",
+  "next": "R1：派 Cursor 做預覽部署（第 7／7 次）",
+  "roadmap": [
+   {
+    "title": "接入工作流、整理現況文件、依 9 月原始對話修訂路線",
+    "status": "完成",
+    "code": "R0",
+    "note": "10/21"
+   },
+   {
+    "title": "資料自動暫存，誤關或下拉重整可以救回；統計按鈕看得出能按",
+    "status": "進行中",
+    "code": "R1",
+    "detail": "審查通過、已合併；待預覽部署與 iPad 實測"
+   },
+   {
+    "title": "Chromebook 小螢幕版面、iPad 觸控選取（點欄標多選）",
+    "status": "排隊",
+    "code": "R1b",
+    "detail": "學生人手一台的主力裝置"
+   },
+   {
+    "title": "插入或刪除列欄後公式不再默默算錯",
+    "status": "排隊",
+    "code": "R2a"
+   },
+   {
+    "title": "SUM、AVERAGE、STDEV.S 等函數、向下填滿、ƒx 函數清單與自動完成",
+    "status": "排隊",
+    "code": "R2b",
+    "detail": "按鈕有的統計都有對應函數"
+   },
+   {
+    "title": "匯出 Excel 時保留公式，統計結果附 Excel 寫法",
+    "status": "排隊",
+    "code": "R2c"
+   },
+   {
+    "title": "兩個範例任務與公式教學彈窗（以國中按鈕路線為主）",
+    "status": "排隊",
+    "code": "R3"
+   },
+   {
+    "title": "測量與不確定度（配合 108 課綱，國中＋高中）",
+    "status": "待規劃",
+    "code": "R5",
+    "detail": "規格研究可先做"
+   }
+  ],
+  "roadmap_later": [
+   "手機大小版面（不需要）",
+   "圖表標題與圖例文字方向（作圖元件不支援）",
+   "AI 解讀",
+   "xlsx 匯入、配對 t、事後比較等（未決定）",
+   "PDF 中文字型、冷啟動優化",
+   "雲端存檔與帳號"
+  ],
+  "roadmap_source": "科展統計作圖工具/IMPROVEMENT_BACKLOG.md",
+  "roadmap_updated_at": "2026-10-24T01:48:00+08:00"
+ },
+ "tu04": {
+  "folder": "TU04_Simulator",
+  "name": "波動相位實驗室（原 TU04 教學模擬器）",
+  "sort": 5,
+  "stage": "已規劃未開始",
+  "summary": "新版教學規格與移交清單 V1.0.0（9/12）備妥；舊原型有物理正負號衝突，需重構",
+  "updated_at": "2026-10-24T12:18:30+08:00",
+  "roadmap": [
+   {
+    "title": "新版教學規格與移交清單",
+    "status": "完成",
+    "code": "V1.0.0",
+    "note": "9/12"
+   },
+   {
+    "title": "先唯讀盤點舊模擬器，不改程式",
+    "status": "排隊",
+    "code": "Audit"
+   },
+   {
+    "title": "修正物理正負號（相位）並建立基本測試",
+    "status": "排隊",
+    "code": "Phase 0",
+    "detail": "舊原型的相位寫法與新規格衝突，必須先修"
+   },
+   {
+    "title": "相量核心畫面",
+    "status": "排隊",
+    "code": "Phase 1｜W1～W3",
+    "detail": "對應投影片 SL-006～017"
+   },
+   {
+    "title": "切片與連結畫面",
+    "status": "排隊",
+    "code": "Phase 2｜W4～W5",
+    "detail": "對應投影片 SL-018～030"
+   },
+   {
+    "title": "能量收支與教師工具：範例編輯、重設、投影與手機版面",
+    "status": "排隊",
+    "code": "Phase 3｜W6"
+   }
+  ],
+  "roadmap_source": "TU04_Simulator\\S1_TU04_CURSOR_HANDOFF_V1.0.0\\S1_TU04_SIMULATOR_CURSOR_HANDOFF_V1.0.0.md（§8）",
+  "roadmap_updated_at": "2026-10-18T10:00:00+08:00"
+ },
+ "voice-clipboard": {
+  "folder": "C:\\VibeCoding_Local\\Voice Clipboard",
+  "name": "Voice Clipboard",
+  "next": "等 AI Things 測試做完再一起排；開工前 Yuan 要決定：Gemini 用免費層還是付費層、繁體轉換方式（評估文件第六節）",
+  "sort": 1,
+  "stage": "待規劃",
+  "summary": "V1.1 Gemini Skill 已可用；2026-10-17 決定不逆向 Typeless、單線做 Voice Clipboard；已查證 Gemini 3.5 Transcribe 官方文件（有免費層、約 US$0.005／分鐘），發現兩個風險：官方語言表沒有台灣繁體、免費層資料會被 Google 拿去改善產品。MVP Phase 1（iPhone／iPad）未做",
+  "updated_at": "2026-10-17T22:57:11+08:00"
+ },
+ "weather": {
+  "folder": "天氣通勤網頁重構專案",
+  "name": "天氣通勤網頁",
+  "next": "第 2 步：臺灣縣市鄉鎮選單＋中央氣象署天氣（等 Yuan 說開始）",
+  "sort": 4,
+  "stage": "開發中",
+  "summary": "V42.5 穩定修復已上線（2026-10-24）：背景色彩圖示、雷達定位、縣市搜尋、回程導航、提醒修正",
+  "updated_at": "2026-10-24T12:22:43+08:00",
+  "roadmap": [
+   {
+    "title": "接入工作流、下載程式、完成研究與規劃",
+    "status": "完成",
+    "code": "WF-V1-ADOPT"
+   },
+   {
+    "title": "修好天氣圖片、雷達、地點搜尋、回程路線、提醒誤標",
+    "status": "完成",
+    "code": "V425",
+    "detail": "V42.5 穩定修復，不需新資料源",
+    "note": "2026-10-24 上線，等 Yuan 手機驗收"
+   },
+   {
+    "title": "三條通勤路線去回程導航改用國道座標、拿掉嵌入地圖",
+    "status": "完成",
+    "code": "V426",
+    "detail": "V42.6 導航修正",
+    "note": "2026-10-24 上線，等 Yuan 用 iPhone 實測導航"
+   },
+   {
+    "title": "臺灣縣市鄉鎮選單＋中央氣象署天氣",
+    "status": "排隊"
+   },
+   {
+    "title": "加伺服器中間人保管金鑰",
+    "status": "排隊",
+    "note": "需 Yuan 申請金鑰"
+   },
+   {
+    "title": "臺灣官方空氣品質與紫外線",
+    "status": "排隊"
+   },
+   {
+    "title": "三條通勤路線雙向真實塞車資訊",
+    "status": "排隊"
+   },
+   {
+    "title": "手機真推播與 Apple 地圖導航",
+    "status": "排隊",
+    "note": "定時器用 Cloudflare"
+   },
+   {
+    "title": "程式整理收尾",
+    "status": "待規劃"
+   }
+  ],
+  "roadmap_later": [
+   "地震與颱風資訊",
+   "落雨小幫手替代方案",
+   "Garmin 交接"
+  ],
+  "roadmap_source": "天氣通勤網頁重構專案\\weather-ai-reports\\2026-10-23_WEATHER-CLAUDE-SYNTHESIS-002_AUDIT_REPORT.md",
+  "roadmap_updated_at": "2026-10-24T13:20:00+08:00"
+ },
+ "wiper-sim": {
+  "folder": "汽車後雨刷與車尾流場互動模擬器",
+  "name": "汽車後雨刷與車尾流場模擬器",
+  "paused_reason": "V3 沒看到進度",
+  "sort": 9,
+  "stage": "擱置",
+  "summary": "V1 流場、V2 雨滴泥水粒子、V2.5 計時紀錄折線圖已完成並封存；V3 雨刷功能規格與交接備妥",
+  "updated_at": "2026-10-16T23:00:00+08:00"
+ },
+ "solution-prep": {
+  "name": "溶液配製計算助手",
+  "stage": "上線維護",
+  "summary": "V3.6 單頁網頁：固體配製、母液稀釋、自訂化合物、全班批量試算、安全與廢液指引、標籤與列印工作單",
+  "folder": "solution-prep-helper",
+  "sort": 5,
+  "updated_at": "2026-10-16T22:55:00+08:00"
+ },
+ "circuit-dna": {
+  "name": "生命解碼所（原 DNA／RNA 互動學習實驗室）",
+  "stage": "開發中",
+  "summary": "副標題「動手探索 DNA，讀懂生命的訊息」。完整教學鏈 7 節（結構 → 複製支線／表現支線），每節都有 2D 平面工作台與可旋轉 3D 對照。10/24 第 1～7 節全部可用：dna_rna_lab_full_20261024.html（雙擊離線開）。下一批 DR7：改名「生命解碼所」、教師控制、總結作品頁、全站驗收、科學確認、試教（規劃待 Yuan 回三題）。未部署。",
+  "folder": "DNA_RNA_LAB",
+  "sort": 10,
+  "updated_at": "2026-10-24T14:13:26+08:00",
+  "roadmap": [
+   {
+    "title": "V1 引導練習版；因模式一結構錯誤暫停試教",
+    "status": "完成",
+    "code": "DR1–DR2"
+   },
+   {
+    "title": "樣張：2D 連續骨架、3D 互動樣張（老師已同意）",
+    "status": "完成",
+    "code": "樣張"
+   },
+   {
+    "title": "結構段平面版：核苷酸接成連續 S–P 骨架、雙股反向平行",
+    "status": "完成",
+    "code": "DR3"
+   },
+   {
+    "title": "結構段立體版：可旋轉 3D 雙螺旋，與平面同步點選",
+    "status": "完成",
+    "code": "DR4"
+   },
+   {
+    "title": "複製支線平面＋立體：半保留（第 3 節）、複製叉、引子、岡崎片段（第 4 節）",
+    "status": "完成",
+    "code": "DR5A／DR5B"
+   },
+   {
+    "title": "表現支線平面＋立體：轉錄（第 5 節）、完整密碼表（第 6 節）、tRNA 與肽鏈（第 7 節）",
+    "status": "進行中",
+    "code": "DR6A／DR6B／DR6C"
+   },
+   {
+    "title": "整合、完整驗收、老師確認與試教",
+    "status": "排隊",
+    "code": "DR7"
+   }
+  ],
+  "roadmap_later": [
+   "轉錄／複製模組",
+   "抽出共享規則與題庫、評估 Vite＋TypeScript",
+   "3D、帳號、雲端成績、AI 解說"
+  ],
+  "roadmap_source": "DNA_RNA_LAB\\PLAN_2026-10-21_完整教學鏈最終規劃.md",
+  "roadmap_updated_at": "2026-10-21T19:00:00+08:00"
+ },
+ "stomata": {
+  "name": "植物氣孔生理決策模型",
+  "stage": "上線維護",
+  "summary": "V2.0 多變因決策模型（光、水、CO2、生理時鐘）與 Canvas 保衛細胞動畫可用；V1 的流程圖、能量公式與測驗題尚未併入 V2",
+  "folder": "氣孔開關機制",
+  "sort": 6,
+  "updated_at": "2026-10-16T22:55:00+08:00",
+  "next": "若要再改：把 V1 教學內容併進 V2"
+ },
+ "note-latex": {
+  "name": "手寫筆記轉 LaTeX 工具",
+  "stage": "擱置",
+  "summary": "用 Gemini Vision 把手寫筆記轉成 LaTeX／HTML；有 CLI、GUI、批次腳本與 HTML 範例，工具分散未整合；程式指定的模型版本已舊",
+  "paused_reason": "2025-12 後沒動",
+  "folder": "goodnote筆記匯出美化",
+  "sort": 11,
+  "updated_at": "2026-10-16T22:55:00+08:00"
+ },
+ "gemini-download": {
+  "name": "Gemini 對答下載書籤工具",
+  "stage": "上線維護",
+  "summary": "V8.0 書籤工具：完整擷取 Gemini 問答、MathML 公式轉 LaTeX、記錄圖片，輸出 Obsidian 用 Markdown；Gemini 網頁改版時需要維護",
+  "folder": "Gemini對答下載書籤外掛",
+  "sort": 7,
+  "updated_at": "2026-10-16T22:55:00+08:00"
+ },
+ "physics-office": {
+  "name": "Physics Office（物理辦公室）",
+  "stage": "擱置",
+  "summary": "科普四格漫畫 IP：物理理論擬人化為宇宙辦公室職員；已有 7 季總表、S1 Bible、EP01 分鏡與 QA；角色主立繪未定稿，EP01 草圖 QA 判定不建議直接發布",
+  "folder": "Physics_Office\\_inbox",
+  "sort": 4,
+  "updated_at": "2026-10-16T22:55:00+08:00",
+  "paused_reason": "4/26 後沒動；前製大致完成"
+ },
+ "optical-lab": {
+  "folder": "Optical Lab 專案",
+  "name": "Optical Lab 光學實驗室",
+  "sort": 20,
+  "stage": "開發中",
+  "summary": "互動光學教學網站；已上線（未公告）（網址見私人網址清單）：透鏡與面鏡觀察、相似三角形推導、焦點座標與例題、三稜鏡色散、光強度與疊色、彩色影子、探究卡與教師／學生模式",
+  "roadmap": [
+   {
+    "title": "規劃收斂：第一版範圍與分批",
+    "status": "完成",
+    "code": "A2"
+   },
+   {
+    "title": "專案骨架、正式規格、OL-B1 勾選表",
+    "status": "完成",
+    "code": "OL-B0"
+   },
+   {
+    "title": "凸透鏡成像與觀察畫面",
+    "status": "完成",
+    "code": "OL-B1"
+   },
+   {
+    "title": "相似三角形推導高斯式／牛頓式與互換，第一次上線",
+    "status": "完成",
+    "code": "OL-B2"
+   },
+   {
+    "title": "凹透鏡與虛像帶號推導",
+    "status": "完成",
+    "code": "OL-B3"
+   },
+   {
+    "title": "探究引導：先預測→操作→記錄證據→對照；教師／學生模式",
+    "status": "完成",
+    "code": "OL-INQ"
+   },
+   {
+    "title": "凹面鏡、凸面鏡（觀察、推導、探究卡）",
+    "status": "完成",
+    "code": "OL-B4"
+   },
+   {
+    "title": "有限口徑、光屏對焦、分享與匯出",
+    "status": "完成",
+    "code": "OL-B5"
+   },
+   {
+    "title": "三稜鏡色散與全反射＋實驗頁版面重排",
+    "status": "完成",
+    "code": "OL-S1、OL-B6、OL-UI1"
+   },
+   {
+    "title": "焦點座標與倍數互倒、例題與詳解、版權與進度頁",
+    "status": "完成",
+    "code": "OL-FIX1、OL-C4、OL-EX1、OL-INFO1"
+   },
+   {
+    "title": "光強度與疊色（線性相加、固定曝光、飽和、探究卡 H）",
+    "status": "完成",
+    "code": "OL-B7"
+   },
+   {
+    "title": "彩色影子（逐點遮擋、多個不同形狀障礙物、面光源半影、探究卡 J）",
+    "status": "完成",
+    "code": "OL-B8"
+   },
+   {
+    "title": "光譜窗與物體的顏色",
+    "status": "排隊",
+    "code": "OL-B9"
+   },
+   {
+    "title": "形狀的像、物體動像怎麼動、兩個鏡片接力",
+    "status": "待規劃",
+    "code": "OL-C5～C7"
+   },
+   {
+    "title": "進階：同色異譜、色差、球差、消色差",
+    "status": "待規劃",
+    "code": "OL-B10～B11"
+   }
+  ],
+  "roadmap_source": "Optical Lab 專案/PLAN_20261020_成像幾何支線整合規劃.md",
+  "roadmap_updated_at": "2026-10-20T23:05:00+08:00",
+  "updated_at": "2026-10-22T11:37:31+08:00",
+  "next": "線上＝…＋OL-B8A 彩色影子小修（10/21 09:35）；下一批 OL-B9 光譜窗與物體顏色（待寫規格與 A4）"
+ },
+ "fivekingdoms": {
+  "name": "五界生物演化教材",
+  "folder": "五界生物演化關係教學",
+  "stage": "開發中",
+  "sort": 21,
+  "summary": "把約 20 年前的 A4「五界生物演化關係圖」做成國中、高中都能用的互動教材；已上線 fivekingdoms.vercel.app（植物區互動、A4 講義）；10/24 已選定下一批 A 自由探究模式＋B 小修，等開新對話接手",
+  "next": "開新對話貼交接 prompt 接手 A＋B（交接 prompt 見任務分頁五界卡）→ 擬規劃頁新文字給 Yuan 看 → 施工 → 審查 → 上線",
+  "updated_at": "2026-10-24T17:07:05+08:00"
+ },
+ "sci-fair-thinking": {
+  "folder": "科展研究思維庫",
+  "name": "科展研究思維庫",
+  "sort": 20,
+  "stage": "開發中",
+  "summary": "逆向分析歷屆科展優秀作品，萃取研究方法論與研究思維，累積成指導學生用的方法論卡；之後做學生文獻探討工具（10/24 從 AIOS 知識圖譜規劃拆出）",
+  "next": "擱置（10/24 額度管理，預計下週）：P0 分析與複看完成，復工先請 Yuan 判斷抽查表 ③④",
+  "roadmap": [
+   {
+    "title": "建專案、整理規劃與來源",
+    "status": "完成",
+    "code": "P-0",
+    "note": "10/24"
+   },
+   {
+    "title": "3 篇國中組前三名逐篇逆向分析＋九宮格有無對照，Yuan 抽查 1 篇",
+    "status": "進行中",
+    "code": "P0",
+    "note": "10/24 物理 3 篇分析與九宮格對照完成；等 Yuan 抽查 1 篇"
+   },
+   {
+    "title": "10～15 篇跨科別＋一般作品對照，寫成方法論卡，畫作品×策略關係圖",
+    "status": "待規劃",
+    "code": "P1"
+   },
+   {
+    "title": "學生文獻探討工具：填前人研究表，看共同變因與研究空白",
+    "status": "待規劃",
+    "code": "P2"
+   },
+   {
+    "title": "科展指導 AI 技能（提問引導，不代替學生研究）",
+    "status": "待規劃",
+    "code": "P3"
+   }
+  ],
+  "roadmap_source": "科展研究思維庫/IMPROVEMENT_BACKLOG.md",
+  "roadmap_updated_at": "2026-10-24T03:30:00+08:00",
+  "updated_at": "2026-10-24T23:39:39+08:00"
+ },
+ "vibe-science": {
+  "name": "Vibe Science",
+  "folder": "vibe science AI",
+  "stage": "擱置",
+  "sort": 21,
+  "summary": "用自然語言讓 AI 實際操作 Fiji／Tracker／SciDAVis／Arduino 等科學軟體，留下可修改成果；10/24 完成雙方獨立架構評估（暫定建議，未實測）",
+  "paused_reason": "Yuan 10/24：先優先其他專案；一定會開發，重啟前先重新評估",
+  "next": "重啟時先做重新評估（VS-REEVAL），再開第 0 批實機探針",
+  "roadmap": [
+   {
+    "title": "架構評估：兩份獨立建議書與比較",
+    "status": "完成",
+    "code": "VS-ARCH-01",
+    "note": "暫定建議；交叉覆核未派"
+   },
+   {
+    "title": "重新評估：查有沒有新開源與新技術",
+    "status": "待規劃",
+    "code": "VS-REEVAL"
+   },
+   {
+    "title": "實機探針：確認 Fiji、Tracker、SciDAVis 在你電腦上能不能讓 AI 操作",
+    "status": "待規劃",
+    "code": "VS-P0"
+   },
+   {
+    "title": "第一個可用案例：AI 在 Fiji 算照片指定顏色的面積比例",
+    "status": "待規劃",
+    "code": "VS-P1"
+   },
+   {
+    "title": "Tracker 小球運動分析（探針通過才做）",
+    "status": "待規劃",
+    "code": "VS-P2"
+   },
+   {
+    "title": "把成功的操作做成配方，沒有 AI 的老師也能用",
+    "status": "待規劃",
+    "code": "VS-P3"
+   },
+   {
+    "title": "找一位老師試用配方",
+    "status": "待規劃",
+    "code": "VS-P4"
+   }
+  ],
+  "roadmap_later": [
+   "手機 phyphox 量測接入",
+   "Arduino 感測器紀錄",
+   "輸出成 ODS／Google 試算表",
+   "網頁入口或學生介面"
+  ],
+  "roadmap_source": "vibe science AI/CONSULT/2026-10-24_VibeScience/SYNTHESIS_AND_NEXT_STEPS.md",
+  "roadmap_updated_at": "2026-10-24T00:45:00+08:00",
+  "updated_at": "2026-10-24T00:43:17+08:00"
+ },
+ "physics-diagram-studio": {
+  "folder": "Physics Diagram Studio",
+  "name": "Physics Diagram Studio（物理題圖幾何組裝器）",
+  "sort": 30,
+  "stage": "擱置",
+  "summary": "10/25 立案後擱置（Yuan：先做額度管理）；規劃完成、Word 2024 測試通過、尚未寫程式",
+  "next": "A0 小試片：平行雙繩滑輪＋吸附＋公式＋存檔＋匯出（等 Yuan 同意派工）",
+  "roadmap": [
+   {
+    "title": "評估與整體規劃（Claude 獨立評估、Codex 交叉複核）",
+    "status": "完成",
+    "code": "CONSULT 04／06／07"
+   },
+   {
+    "title": "確認 Word 2024 能顯示 SVG、中文與公式",
+    "status": "完成",
+    "code": "S0"
+   },
+   {
+    "title": "立案：專案規則、授權、狀態頁、交接",
+    "status": "完成",
+    "code": "K0"
+   },
+   {
+    "title": "小試片：拖、轉、改繩長、吸附、公式、存檔、匯出到 Word",
+    "status": "排隊",
+    "code": "A0"
+   },
+   {
+    "title": "舊圖重繪試做：公版講義 5 張",
+    "status": "排隊",
+    "code": "B0"
+   },
+   {
+    "title": "可用編輯器：全部力學元件、兩繩各轉各的、範本",
+    "status": "待規劃",
+    "code": "A1"
+   },
+   {
+    "title": "線頭跟著木塊走（有限連接）",
+    "status": "待規劃",
+    "code": "A2"
+   }
+  ],
+  "roadmap_later": [
+   "滑輪本體跟著木塊走（待決）",
+   "Word 2019 支援",
+   "光學／電學圖塊",
+   "AI 產生專案檔匯入"
+  ],
+  "roadmap_source": "Physics Diagram Studio\\CONSULT\\2026-10-21_07_CLAUDE_整體規劃.md",
+  "roadmap_updated_at": "2026-10-25T00:28:21+08:00",
+  "updated_at": "2026-10-25T00:32:05+08:00"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "ok": true,
+ "source": "agy_usage",
+ "checked_at": "2026-10-31T21:27:44+08:00",
+ "thresholds": {
+  "five_hour": 80,
+  "weekly": 85
+ },
+ "groups": [
+  {
+   "group": "Gemini Models",
+   "key": "gemini",
+   "buckets": [
+    {
+     "id": "gemini-weekly",
+     "window": "weekly",
+     "used_percent": 10.0,
+     "resets_at": "2026-11-01T13:56:35+08:00"
+    },
+    {
+     "id": "gemini-5h",
+     "window": "5h",
+     "used_percent": 0.0,
+     "resets_at": "2026-11-01T02:27:44+08:00"
+    }
+   ]
+  },
+  {
+   "group": "Claude and GPT models",
+   "key": "claude_gpt",
+   "buckets": [
+    {
+     "id": "3p-weekly",
+     "window": "weekly",
+     "used_percent": 0.0,
+     "resets_at": "2026-11-07T21:27:44+08:00"
+    },
+    {
+     "id": "3p-5h",
+     "window": "5h",
+     "used_percent": 0.0,
+     "resets_at": "2026-11-01T02:27:44+08:00"
+    }
+   ]
+  },
+  {
+   "group": "Gemini 4 Argon",
+   "key": "argon",
+   "buckets": [
+    {
+     "id": "gemini-argon-wtu-weekly",
+     "window": "weekly",
+     "used_percent": 0.0,
+     "resets_at": "2026-11-07T21:27:44+08:00"
+    }
+   ]
+  }
+ ]
+}

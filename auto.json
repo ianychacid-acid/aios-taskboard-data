@@ -1,0 +1,288 @@
+{
+ "generated_at": "2026-10-31T21:30:00+08:00",
+ "sessions": [
+  {
+   "project": "Physics_Office",
+   "state": "working",
+   "reason": "prompt",
+   "since": "2026-10-31T21:30:00+08:00",
+   "updated_at": "2026-10-31T21:30:00+08:00",
+   "session_id": "local_633417c8-288f-4555-9478-560e9a6ddeeb"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T20:44:00+08:00",
+   "updated_at": "2026-10-31T20:44:00+08:00",
+   "session_id": "local_c3cf6e3e-cc17-477d-8f2b-6319ab708329"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T20:20:52+08:00",
+   "updated_at": "2026-10-31T20:20:52+08:00",
+   "session_id": "local_6e8cca68-2c2c-4773-9043-003a856bfa96"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T20:06:06+08:00",
+   "updated_at": "2026-10-31T20:06:06+08:00"
+  },
+  {
+   "project": "Media Inbox",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T20:04:34+08:00",
+   "updated_at": "2026-10-31T20:04:34+08:00",
+   "session_id": "local_815608dc-9aac-458a-9fd8-228097c4448c"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:57:13+08:00",
+   "updated_at": "2026-10-31T15:57:13+08:00",
+   "session_id": "local_0c1214b4-2940-4765-b846-57e62495286c"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:55:26+08:00",
+   "updated_at": "2026-10-31T15:55:26+08:00",
+   "session_id": "local_6e008aac-0787-47cf-8b24-a33e4663f96d"
+  },
+  {
+   "project": "PDF-Transcriber_2026",
+   "state": "working",
+   "reason": "prompt",
+   "since": "2026-10-31T15:53:25+08:00",
+   "updated_at": "2026-10-31T15:53:25+08:00",
+   "session_id": "local_e25e419a-f270-4bf7-b0a1-9484a204d809"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:27:40+08:00",
+   "updated_at": "2026-10-31T15:27:40+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:18:08+08:00",
+   "updated_at": "2026-10-31T15:18:08+08:00",
+   "session_id": "local_2c312107-f6cf-4853-841e-602f8dfb224f"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:05:46+08:00",
+   "updated_at": "2026-10-31T15:05:46+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T15:05:10+08:00",
+   "updated_at": "2026-10-31T15:05:10+08:00"
+  },
+  {
+   "project": "科展討論",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T13:18:14+08:00",
+   "updated_at": "2026-10-31T13:18:14+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T12:22:07+08:00",
+   "updated_at": "2026-10-31T12:22:07+08:00"
+  },
+  {
+   "project": "Physics_Office",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T12:09:34+08:00",
+   "updated_at": "2026-10-31T12:09:34+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T11:34:54+08:00",
+   "updated_at": "2026-10-31T11:34:54+08:00"
+  },
+  {
+   "project": "Physics_Office",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T11:32:11+08:00",
+   "updated_at": "2026-10-31T11:32:11+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-10-31T09:41:09+08:00",
+   "updated_at": "2026-10-31T09:41:09+08:00"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "needs_you",
+   "reason": "permission",
+   "since": "2026-10-31T09:30:46+08:00",
+   "updated_at": "2026-10-31T09:30:46+08:00"
+  }
+ ],
+ "launchers": [
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T19:05:53+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T19:05:43+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T18:34:22+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T18:31:55+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-31T18:00:19+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-31T18:00:17+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-31T18:00:16+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-10-31T18:00:10+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T18:00:00+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:59:29+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:59:05+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:58:25+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:58:17+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:58:08+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:41:05+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:30:04+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:02:19+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:02:04+08:00"
+  },
+  {
+   "launcher": "launch_cursor_readonly_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:01:36+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "_cloud_review",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-10-31T17:00:11+08:00"
+  }
+ ]
+}
