@@ -1,0 +1,12 @@
+{
+ "schema": 1,
+ "last_success": "2026-11-07T12:30:02+08:00",
+ "last_attempt": "2026-11-07T12:30:02+08:00",
+ "last_result": "success",
+ "last_files": 160861,
+ "consecutive_failures": 0,
+ "yellow_hours": 26,
+ "alert_hours": 36,
+ "alert_consecutive_failures": 2,
+ "updated_at": "2026-11-07T13:19:38+08:00"
+}

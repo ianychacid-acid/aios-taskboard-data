@@ -1,0 +1,169 @@
+{
+ "generated_at": "2026-11-07T23:55:33+08:00",
+ "sessions": [
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "working",
+   "reason": "tool_done",
+   "since": "2026-11-07T23:55:13+08:00",
+   "updated_at": "2026-11-07T23:55:18+08:00",
+   "session_id": "local_09402a5d-d01e-4242-8650-fcf5bc5c4a10"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-07T23:47:44+08:00",
+   "updated_at": "2026-11-07T23:47:44+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "working",
+   "reason": "tool_done",
+   "since": "2026-11-07T23:47:06+08:00",
+   "updated_at": "2026-11-07T23:47:20+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-07T14:34:29+08:00",
+   "updated_at": "2026-11-07T14:34:29+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-07T12:30:06+08:00",
+   "updated_at": "2026-11-07T12:30:06+08:00",
+   "session_id": "local_0f3eac75-b5bf-478d-a3c9-7b53359d12b4"
+  }
+ ],
+ "launchers": [
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T22:15:52+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T21:33:26+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T20:38:38+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T19:26:19+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T18:55:43+08:00",
+   "session_id": "local_09402a5d-d01e-4242-8650-fcf5bc5c4a10"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T17:37:48+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T17:32:59+08:00",
+   "session_id": "local_09402a5d-d01e-4242-8650-fcf5bc5c4a10"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T13:34:34+08:00",
+   "session_id": "local_9fa1ae7c-b4da-4a95-974f-da25830b0dbd"
+  },
+  {
+   "launcher": "AIOS 雲端備份",
+   "project": "其他",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T13:19:38+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T12:48:28+08:00",
+   "session_id": "local_09402a5d-d01e-4242-8650-fcf5bc5c4a10"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T10:37:16+08:00"
+  },
+  {
+   "launcher": "AIOS 雲端備份",
+   "project": "其他",
+   "event": "fail",
+   "exit_code": 1,
+   "updated_at": "2026-11-07T06:33:45+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T01:16:22+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T00:52:13+08:00",
+   "session_id": "local_23685a3c-b639-450f-a7b5-ea9c59773268"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Yuan Personal AI Operating System",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T00:49:52+08:00",
+   "session_id": "local_23685a3c-b639-450f-a7b5-ea9c59773268"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-07T00:03:23+08:00"
+  }
+ ]
+}
