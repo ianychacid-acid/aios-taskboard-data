@@ -1,0 +1,8 @@
+{
+ "ok": true,
+ "source": "yuan_report",
+ "used_percent": 91,
+ "reported_at": "2026-10-25T16:39:41+08:00",
+ "next_reset": "2026-11-22T22:00:00+08:00",
+ "last_quota_error_at": "2026-10-31T18:24:08+08:00"
+}
