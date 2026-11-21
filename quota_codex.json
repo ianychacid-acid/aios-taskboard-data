@@ -1,0 +1,22 @@
+{
+ "ok": true,
+ "source": "app_server",
+ "checked_at": "2026-11-21T19:42:00+08:00",
+ "five_hour": {
+  "used_percent": 29.0,
+  "window_minutes": 300,
+  "resets_at": "2026-11-22T00:06:15+08:00",
+  "assumed_reset": false
+ },
+ "weekly": {
+  "used_percent": 10.0,
+  "window_minutes": 10080,
+  "resets_at": "2026-11-28T01:57:53+08:00",
+  "assumed_reset": false
+ },
+ "limit_reached": false,
+ "thresholds": {
+  "five_hour": 80,
+  "weekly": 70
+ }
+}

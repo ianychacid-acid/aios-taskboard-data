@@ -1,0 +1,349 @@
+{
+ "generated_at": "2026-11-21T19:47:29+08:00",
+ "sessions": [
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:46:52+08:00",
+   "updated_at": "2026-11-21T19:46:52+08:00",
+   "session_id": "local_01ab5455-3a23-4d27-8d77-c0563fe0abfd"
+  },
+  {
+   "project": "天氣通勤網頁重構專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:44:58+08:00",
+   "updated_at": "2026-11-21T19:44:58+08:00"
+  },
+  {
+   "project": "vibe science AI",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:40:32+08:00",
+   "updated_at": "2026-11-21T19:40:32+08:00",
+   "session_id": "local_ca227e8a-fa56-486c-a1f8-669ad4106497"
+  },
+  {
+   "project": "vibe science AI",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:28:46+08:00",
+   "updated_at": "2026-11-21T19:28:46+08:00"
+  },
+  {
+   "project": "天氣通勤網頁重構專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:26:21+08:00",
+   "updated_at": "2026-11-21T19:26:21+08:00",
+   "session_id": "local_2f34a06f-d2ae-4979-9f5b-113e51f14f0a"
+  },
+  {
+   "project": "天氣通勤網頁重構專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:21:19+08:00",
+   "updated_at": "2026-11-21T19:21:19+08:00",
+   "session_id": "local_2d503ab1-f64c-4493-94f7-56b50b9a71d4"
+  },
+  {
+   "project": "天氣通勤網頁重構專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:21:10+08:00",
+   "updated_at": "2026-11-21T19:21:10+08:00"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:21:10+08:00",
+   "updated_at": "2026-11-21T19:21:10+08:00"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:19:07+08:00",
+   "updated_at": "2026-11-21T19:19:07+08:00"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:19:00+08:00",
+   "updated_at": "2026-11-21T19:19:00+08:00",
+   "session_id": "local_b3ed8d99-4995-4094-9eb0-1807f74bcb98"
+  },
+  {
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "state": "working",
+   "reason": "tool_done",
+   "since": "2026-11-21T19:18:52+08:00",
+   "updated_at": "2026-11-21T19:18:55+08:00",
+   "session_id": "local_b3ed8d99-4995-4094-9eb0-1807f74bcb98"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:09:01+08:00",
+   "updated_at": "2026-11-21T19:09:01+08:00"
+  },
+  {
+   "project": "Optical Lab 專案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T19:07:59+08:00",
+   "updated_at": "2026-11-21T19:07:59+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:21:57+08:00",
+   "updated_at": "2026-11-21T18:21:57+08:00",
+   "session_id": "local_28fe9481-b918-48b7-bc16-282c784240ec"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:21:21+08:00",
+   "updated_at": "2026-11-21T18:21:21+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:21:12+08:00",
+   "updated_at": "2026-11-21T18:21:12+08:00"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:21:02+08:00",
+   "updated_at": "2026-11-21T18:21:02+08:00"
+  },
+  {
+   "project": "手機成癮倒數裝置",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:17:38+08:00",
+   "updated_at": "2026-11-21T18:17:38+08:00",
+   "session_id": "local_7a4f0afc-218d-4fed-b109-14ff66145a7c"
+  },
+  {
+   "project": "科展研究思維庫",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:14:19+08:00",
+   "updated_at": "2026-11-21T18:14:19+08:00",
+   "session_id": "local_0dfd6f86-a688-4ce7-9254-610c19538611"
+  },
+  {
+   "project": "元寶入口",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:56+08:00",
+   "updated_at": "2026-11-21T18:13:56+08:00",
+   "session_id": "local_81fc6f3d-d4e8-487d-bbc4-be85d11a7ce1"
+  },
+  {
+   "project": "手機成癮倒數裝置",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:55+08:00",
+   "updated_at": "2026-11-21T18:13:55+08:00"
+  },
+  {
+   "project": "橫波與縱波",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:51+08:00",
+   "updated_at": "2026-11-21T18:13:51+08:00",
+   "session_id": "local_8585ea0a-ef84-4527-9ecd-fa006bb36e82"
+  },
+  {
+   "project": "聲波教學模擬探究",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:45+08:00",
+   "updated_at": "2026-11-21T18:13:45+08:00",
+   "session_id": "local_43e2120a-46c9-4c01-ab3b-c3889aa1cc5d"
+  },
+  {
+   "project": "TU04_Simulator",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:45+08:00",
+   "updated_at": "2026-11-21T18:13:45+08:00",
+   "session_id": "local_4cf7bd7b-2758-402b-b24a-df3726a2b34e"
+  },
+  {
+   "project": "PDF-Transcriber_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:38+08:00",
+   "updated_at": "2026-11-21T18:13:38+08:00",
+   "session_id": "local_f74b0c23-2a94-44b9-81ba-b9a000921a87"
+  },
+  {
+   "project": "資優電學實驗模擬",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:26+08:00",
+   "updated_at": "2026-11-21T18:13:26+08:00",
+   "session_id": "local_c8524395-f48e-4a8f-a412-62dd549a4630"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:24+08:00",
+   "updated_at": "2026-11-21T18:13:24+08:00",
+   "session_id": "local_2c312107-f6cf-4853-841e-602f8dfb224f"
+  },
+  {
+   "project": "PDF-Transcriber_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:23+08:00",
+   "updated_at": "2026-11-21T18:13:23+08:00",
+   "session_id": "local_e25e419a-f270-4bf7-b0a1-9484a204d809"
+  },
+  {
+   "project": "波動教案",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:22+08:00",
+   "updated_at": "2026-11-21T18:13:22+08:00",
+   "session_id": "local_e879000c-88e4-452a-9687-a5aea6a244e7"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:21+08:00",
+   "updated_at": "2026-11-21T18:13:21+08:00",
+   "session_id": "local_3cf48e7d-0ebf-4feb-b20c-57bf0e9e1176"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:07+08:00",
+   "updated_at": "2026-11-21T18:13:07+08:00",
+   "session_id": "local_b88e0dc6-aa67-44f9-b9d1-a9e66292a983"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:13:07+08:00",
+   "updated_at": "2026-11-21T18:13:07+08:00"
+  },
+  {
+   "project": "科展統計作圖工具",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:59+08:00",
+   "updated_at": "2026-11-21T18:12:59+08:00",
+   "session_id": "local_ba6ba8db-79e0-4fb4-8ed6-d8aa4c8c84f0"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:58+08:00",
+   "updated_at": "2026-11-21T18:12:58+08:00",
+   "session_id": "local_104170e0-c30a-4006-a90f-be5bcb57be5b"
+  },
+  {
+   "project": "Yuan Personal AI Operating System",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:50+08:00",
+   "updated_at": "2026-11-21T18:12:50+08:00",
+   "session_id": "local_5bb05c16-8efc-4811-90cb-94148f129761"
+  },
+  {
+   "project": "Omni-Reader_2026",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:44+08:00",
+   "updated_at": "2026-11-21T18:12:44+08:00",
+   "session_id": "local_bdc52fb8-0507-4d68-bfce-3116544d32b6"
+  },
+  {
+   "project": "personal-edu-portal",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:37+08:00",
+   "updated_at": "2026-11-21T18:12:37+08:00",
+   "session_id": "local_14889b0c-d2c3-451b-9b1e-baa915dba920"
+  },
+  {
+   "project": "五界生物演化關係教學",
+   "state": "idle",
+   "reason": "stop",
+   "since": "2026-11-21T18:12:34+08:00",
+   "updated_at": "2026-11-21T18:12:34+08:00",
+   "session_id": "local_921b7397-5cf2-4427-9a96-c3c0a81bf696"
+  }
+ ],
+ "launchers": [
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T19:42:00+08:00",
+   "session_id": "local_01ab5455-3a23-4d27-8d77-c0563fe0abfd"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "Optical Lab 專案",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T19:16:00+08:00"
+  },
+  {
+   "launcher": "AIOS 雲端備份",
+   "project": "其他",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T15:15:31+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T13:56:25+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "智慧班級經營系統_多教師_V1_20261012",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T12:38:16+08:00"
+  },
+  {
+   "launcher": "AIOS 雲端備份",
+   "project": "其他",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T04:24:39+08:00"
+  },
+  {
+   "launcher": "launch_codex_file_task.py",
+   "project": "其他",
+   "event": "success",
+   "exit_code": 0,
+   "updated_at": "2026-11-21T02:04:45+08:00"
+  }
+ ]
+}
