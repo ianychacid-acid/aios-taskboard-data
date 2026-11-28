@@ -1,0 +1,27 @@
+{
+ "ok": true,
+ "source": "app_get_usage",
+ "checked_at": "2026-11-29T00:12:47+08:00",
+ "five_hour": {
+  "used_percent": 0,
+  "resets_at": "2026-11-29T03:10:00+08:00"
+ },
+ "weekly_all": {
+  "used_percent": 8,
+  "resets_at": "2026-12-04T16:00:00+08:00"
+ },
+ "weekly_models": [
+  {
+   "model": "Fable",
+   "used_percent": 0,
+   "resets_at": "2026-12-04T16:00:00+08:00"
+  }
+ ],
+ "extra_usage": {
+  "enabled": true,
+  "used_percent": 0
+ },
+ "thresholds": {
+  "weekly": 90
+ }
+}
